@@ -1,0 +1,7 @@
+{
+    "name": "TaskServer",
+    "dependencies": {
+        "express": "^4.13.x",
+        "ws": "^0.8.x"
+    }
+}
